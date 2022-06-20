@@ -2,12 +2,6 @@
 
 데이터
 
-	cocoqa
-		cocoqa 영어 원본
-		train
-		test
-		관련 스크립트 또는 사전: 자세한 내용은 cocoqa 검색 및 스크립트 파일 내용 참조
-
 	cocoqa_korean
 		cocoqa 한국어 번역본
 		train
