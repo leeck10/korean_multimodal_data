@@ -14,12 +14,6 @@
 		dataset.org.json: 영어 원본 데이터
 		dataset.korean.utf8.json: 한국어 번역 데이터
 
-	flickr30k
-		한국어 이미지 캡션 데이터 
-		flickr30k-images.tar: flickr30k 이미지 파일
-		dataset.json: 영어 데이터
-		flickr30k_test.json: 영어 test 데이터 및 한국어 번역 데이터
-	
 	mnmt
 		한국어-영어 이미지 번역 데이터 based flickr8k
 		train
