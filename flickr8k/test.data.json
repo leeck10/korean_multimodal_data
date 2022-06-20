@@ -1,0 +1,3651 @@
+{
+	"images": [
+		{
+			"sentids": [
+				35055,
+				35056,
+				35057,
+				35058,
+				35059
+			],
+			"k_sentences": [
+				{
+					"raw": "노란 옷을 입은 남자가 얼굴을 찡그리고 있다.",
+					"morp": [
+						{
+							"lemma": "노랗",
+							"type": "VA",
+							"id": 0
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 1
+						},
+						{
+							"lemma": "옷",
+							"type": "NNG",
+							"id": 2
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 3
+						},
+						{
+							"lemma": "입",
+							"type": "VV",
+							"id": 4
+						},
+						{
+							"lemma": "은",
+							"type": "ETM",
+							"id": 5
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 6
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 7
+						},
+						{
+							"lemma": "얼굴",
+							"type": "NNG",
+							"id": 8
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 9
+						},
+						{
+							"lemma": "찡그리",
+							"type": "VV",
+							"id": 10
+						},
+						{
+							"lemma": "고",
+							"type": "EC",
+							"id": 11
+						},
+						{
+							"lemma": "있",
+							"type": "VX",
+							"id": 12
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 13
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 14
+						}
+					],
+					"imgid": 7011,
+					"sentid": 35055
+				},
+				{
+					"raw": "얼굴에 과장된 표정을 한 노란 셔츠를 입은 남자",
+					"morp": [
+						{
+							"lemma": "얼굴",
+							"type": "NNG",
+							"id": 0
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 1
+						},
+						{
+							"lemma": "과장",
+							"type": "NNG",
+							"id": 2
+						},
+						{
+							"lemma": "되",
+							"type": "XSV",
+							"id": 3
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 4
+						},
+						{
+							"lemma": "표정",
+							"type": "NNG",
+							"id": 5
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 6
+						},
+						{
+							"lemma": "하",
+							"type": "VV",
+							"id": 7
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 8
+						},
+						{
+							"lemma": "노랗",
+							"type": "VA",
+							"id": 9
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 10
+						},
+						{
+							"lemma": "셔츠",
+							"type": "NNG",
+							"id": 11
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 12
+						},
+						{
+							"lemma": "입",
+							"type": "VV",
+							"id": 13
+						},
+						{
+							"lemma": "은",
+							"type": "ETM",
+							"id": 14
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 15
+						}
+					],
+					"imgid": 7011,
+					"sentid": 35056
+				},
+				{
+					"raw": "노란 티셔츠를 입은 남자가 그의 얼굴에 큰 미소를 띄고 있다.",
+					"morp": [
+						{
+							"lemma": "노랗",
+							"type": "VA",
+							"id": 0
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 1
+						},
+						{
+							"lemma": "티셔츠",
+							"type": "NNG",
+							"id": 2
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 3
+						},
+						{
+							"lemma": "입",
+							"type": "VV",
+							"id": 4
+						},
+						{
+							"lemma": "은",
+							"type": "ETM",
+							"id": 5
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 6
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 7
+						},
+						{
+							"lemma": "그",
+							"type": "NP",
+							"id": 8
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 9
+						},
+						{
+							"lemma": "얼굴",
+							"type": "NNG",
+							"id": 10
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 11
+						},
+						{
+							"lemma": "크",
+							"type": "VA",
+							"id": 12
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 13
+						},
+						{
+							"lemma": "미소",
+							"type": "NNG",
+							"id": 14
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 15
+						},
+						{
+							"lemma": "띄",
+							"type": "VV",
+							"id": 16
+						},
+						{
+							"lemma": "고",
+							"type": "EC",
+							"id": 17
+						},
+						{
+							"lemma": "있",
+							"type": "VX",
+							"id": 18
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 19
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 20
+						}
+					],
+					"imgid": 7011,
+					"sentid": 35057
+				},
+				{
+					"raw": "남자가 있다, 노란 셔츠를 입은, 그리고 얼굴을 찡그리고 있다.",
+					"morp": [
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 0
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 1
+						},
+						{
+							"lemma": "있",
+							"type": "VV",
+							"id": 2
+						},
+						{
+							"lemma": "다",
+							"type": "EC",
+							"id": 3
+						},
+						{
+							"lemma": ",",
+							"type": "SP",
+							"id": 4
+						},
+						{
+							"lemma": "노랗",
+							"type": "VA",
+							"id": 5
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 6
+						},
+						{
+							"lemma": "셔츠",
+							"type": "NNG",
+							"id": 7
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 8
+						},
+						{
+							"lemma": "입",
+							"type": "VV",
+							"id": 9
+						},
+						{
+							"lemma": "은",
+							"type": "ETM",
+							"id": 10
+						},
+						{
+							"lemma": ",",
+							"type": "SP",
+							"id": 11
+						},
+						{
+							"lemma": "그리고",
+							"type": "MAJ",
+							"id": 12
+						},
+						{
+							"lemma": "얼굴",
+							"type": "NNG",
+							"id": 13
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 14
+						},
+						{
+							"lemma": "찡그리",
+							"type": "VV",
+							"id": 15
+						},
+						{
+							"lemma": "고",
+							"type": "EC",
+							"id": 16
+						},
+						{
+							"lemma": "있",
+							"type": "VX",
+							"id": 17
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 18
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 19
+						}
+					],
+					"imgid": 7011,
+					"sentid": 35058
+				},
+				{
+					"raw": "남자가 카메라를 향해 아주 큰 미소를 짓고 있다.",
+					"morp": [
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 0
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 1
+						},
+						{
+							"lemma": "카메라",
+							"type": "NNG",
+							"id": 2
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 3
+						},
+						{
+							"lemma": "향하",
+							"type": "VV",
+							"id": 4
+						},
+						{
+							"lemma": "아",
+							"type": "EC",
+							"id": 5
+						},
+						{
+							"lemma": "아주",
+							"type": "MAG",
+							"id": 6
+						},
+						{
+							"lemma": "크",
+							"type": "VA",
+							"id": 7
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 8
+						},
+						{
+							"lemma": "미소",
+							"type": "NNG",
+							"id": 9
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 10
+						},
+						{
+							"lemma": "짓",
+							"type": "VV",
+							"id": 11
+						},
+						{
+							"lemma": "고",
+							"type": "EC",
+							"id": 12
+						},
+						{
+							"lemma": "있",
+							"type": "VX",
+							"id": 13
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 14
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 15
+						}
+					],
+					"imgid": 7011,
+					"sentid": 35059
+				}
+			],
+			"imgid": 7011,
+			"split": "test",
+			"sentences": [
+				{
+					"tokens": [
+						"a",
+						"man",
+						"in",
+						"yellow",
+						"grimaces"
+					],
+					"raw": "A man in yellow grimaces .",
+					"imgid": 7011,
+					"sentid": 35055
+				},
+				{
+					"tokens": [
+						"a",
+						"man",
+						"wearing",
+						"a",
+						"yellow",
+						"shirt",
+						"with",
+						"a",
+						"dramatic",
+						"look",
+						"on",
+						"his",
+						"face"
+					],
+					"raw": "a man wearing a yellow shirt with a dramatic look on his face",
+					"imgid": 7011,
+					"sentid": 35056
+				},
+				{
+					"tokens": [
+						"the",
+						"man",
+						"in",
+						"the",
+						"yellow",
+						"t",
+						"shirt",
+						"is",
+						"pulling",
+						"a",
+						"large",
+						"grin",
+						"on",
+						"his",
+						"face"
+					],
+					"raw": "The man in the yellow t-shirt is pulling a large grin on his face .",
+					"imgid": 7011,
+					"sentid": 35057
+				},
+				{
+					"tokens": [
+						"there",
+						"is",
+						"a",
+						"man",
+						"wearing",
+						"a",
+						"yellow",
+						"shirt",
+						"and",
+						"grimacing"
+					],
+					"raw": "There is a man , wearing a yellow shirt , and grimacing .",
+					"imgid": 7011,
+					"sentid": 35058
+				},
+				{
+					"tokens": [
+						"this",
+						"man",
+						"is",
+						"smiling",
+						"very",
+						"big",
+						"at",
+						"the",
+						"camera"
+					],
+					"raw": "This man is smiling very big at the camera .",
+					"imgid": 7011,
+					"sentid": 35059
+				}
+			],
+			"filename": "1167669558_87a8a467d6.jpg"
+		},
+		{
+			"sentids": [
+				35060,
+				35061,
+				35062,
+				35063,
+				35064
+			],
+			"k_sentences": [
+				{
+					"raw": "한 개가 현관 위에 매트리스 위에 눕는다.",
+					"morp": [
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "개",
+							"type": "NNB",
+							"id": 1
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 2
+						},
+						{
+							"lemma": "현관",
+							"type": "NNG",
+							"id": 3
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 4
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 5
+						},
+						{
+							"lemma": "매트리스",
+							"type": "NNG",
+							"id": 6
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 7
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 8
+						},
+						{
+							"lemma": "눕",
+							"type": "VV",
+							"id": 9
+						},
+						{
+							"lemma": "는다",
+							"type": "EF",
+							"id": 10
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 11
+						}
+					],
+					"imgid": 7012,
+					"sentid": 35060
+				},
+				{
+					"raw": "한 개가 현관 위에 놓인 매트리스 위에서 구르고 그의 등을 긁는다.",
+					"morp": [
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "개",
+							"type": "NNB",
+							"id": 1
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 2
+						},
+						{
+							"lemma": "현관",
+							"type": "NNG",
+							"id": 3
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 4
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 5
+						},
+						{
+							"lemma": "놓이",
+							"type": "VV",
+							"id": 6
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 7
+						},
+						{
+							"lemma": "매트리스",
+							"type": "NNG",
+							"id": 8
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 9
+						},
+						{
+							"lemma": "에서",
+							"type": "JKB",
+							"id": 10
+						},
+						{
+							"lemma": "구르",
+							"type": "VV",
+							"id": 11
+						},
+						{
+							"lemma": "고",
+							"type": "EC",
+							"id": 12
+						},
+						{
+							"lemma": "그",
+							"type": "NP",
+							"id": 13
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 14
+						},
+						{
+							"lemma": "등",
+							"type": "NNG",
+							"id": 15
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 16
+						},
+						{
+							"lemma": "긁",
+							"type": "VV",
+							"id": 17
+						},
+						{
+							"lemma": "는다",
+							"type": "EF",
+							"id": 18
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 19
+						}
+					],
+					"imgid": 7012,
+					"sentid": 35061
+				},
+				{
+					"raw": "현관 위에 놓은 패드 위를 구르는 한 점 무늬가 있는 개.",
+					"morp": [
+						{
+							"lemma": "현관",
+							"type": "NNG",
+							"id": 0
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 2
+						},
+						{
+							"lemma": "놓",
+							"type": "VV",
+							"id": 3
+						},
+						{
+							"lemma": "은",
+							"type": "ETM",
+							"id": 4
+						},
+						{
+							"lemma": "패드",
+							"type": "NNG",
+							"id": 5
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 6
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 7
+						},
+						{
+							"lemma": "구르",
+							"type": "VV",
+							"id": 8
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 9
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 10
+						},
+						{
+							"lemma": "점",
+							"type": "NNB",
+							"id": 11
+						},
+						{
+							"lemma": "무늬",
+							"type": "NNG",
+							"id": 12
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 13
+						},
+						{
+							"lemma": "있",
+							"type": "VV",
+							"id": 14
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 15
+						},
+						{
+							"lemma": "개",
+							"type": "NNG",
+							"id": 16
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 17
+						}
+					],
+					"imgid": 7012,
+					"sentid": 35062
+				},
+				{
+					"raw": "현관 위에서 그것의 등 위로 구르는 한 하얀색 개.",
+					"morp": [
+						{
+							"lemma": "현관",
+							"type": "NNG",
+							"id": 0
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": "에서",
+							"type": "JKB",
+							"id": 2
+						},
+						{
+							"lemma": "그것",
+							"type": "NP",
+							"id": 3
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 4
+						},
+						{
+							"lemma": "등",
+							"type": "NNG",
+							"id": 5
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 6
+						},
+						{
+							"lemma": "로",
+							"type": "JKB",
+							"id": 7
+						},
+						{
+							"lemma": "구르",
+							"type": "VV",
+							"id": 8
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 9
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 10
+						},
+						{
+							"lemma": "하얀색",
+							"type": "NNG",
+							"id": 11
+						},
+						{
+							"lemma": "개",
+							"type": "NNG",
+							"id": 12
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 13
+						}
+					],
+					"imgid": 7012,
+					"sentid": 35063
+				},
+				{
+					"raw": "그 점 무늬가 있는 개가 그것의 등 위로 구른다.",
+					"morp": [
+						{
+							"lemma": "그",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "점",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": "무늬",
+							"type": "NNG",
+							"id": 2
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 3
+						},
+						{
+							"lemma": "있",
+							"type": "VV",
+							"id": 4
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 5
+						},
+						{
+							"lemma": "개",
+							"type": "NNG",
+							"id": 6
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 7
+						},
+						{
+							"lemma": "그것",
+							"type": "NP",
+							"id": 8
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 9
+						},
+						{
+							"lemma": "등",
+							"type": "NNG",
+							"id": 10
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 11
+						},
+						{
+							"lemma": "로",
+							"type": "JKB",
+							"id": 12
+						},
+						{
+							"lemma": "구르",
+							"type": "VV",
+							"id": 13
+						},
+						{
+							"lemma": "ㄴ다",
+							"type": "EF",
+							"id": 14
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 15
+						}
+					],
+					"imgid": 7012,
+					"sentid": 35064
+				}
+			],
+			"imgid": 7012,
+			"split": "test",
+			"sentences": [
+				{
+					"tokens": [
+						"a",
+						"dog",
+						"lays",
+						"on",
+						"a",
+						"mattress",
+						"on",
+						"the",
+						"porch"
+					],
+					"raw": "A dog lays on a mattress on the porch .",
+					"imgid": 7012,
+					"sentid": 35060
+				},
+				{
+					"tokens": [
+						"a",
+						"dog",
+						"rolls",
+						"on",
+						"a",
+						"mattress",
+						"placed",
+						"on",
+						"a",
+						"porch",
+						"and",
+						"scratches",
+						"his",
+						"back"
+					],
+					"raw": "A dog rolls on a mattress placed on a porch and scratches his back .",
+					"imgid": 7012,
+					"sentid": 35061
+				},
+				{
+					"tokens": [
+						"a",
+						"spotted",
+						"dog",
+						"rolling",
+						"over",
+						"on",
+						"a",
+						"pad",
+						"placed",
+						"on",
+						"a",
+						"porch"
+					],
+					"raw": "A spotted dog rolling over on a pad placed on a porch .",
+					"imgid": 7012,
+					"sentid": 35062
+				},
+				{
+					"tokens": [
+						"a",
+						"white",
+						"dog",
+						"rolling",
+						"on",
+						"its",
+						"back",
+						"on",
+						"a",
+						"porch"
+					],
+					"raw": "A white dog rolling on its back on a porch .",
+					"imgid": 7012,
+					"sentid": 35063
+				},
+				{
+					"tokens": [
+						"the",
+						"spotted",
+						"dog",
+						"rolls",
+						"on",
+						"its",
+						"back"
+					],
+					"raw": "The spotted dog rolls on its back .",
+					"imgid": 7012,
+					"sentid": 35064
+				}
+			],
+			"filename": "2847615962_c330bded6e.jpg"
+		},
+		{
+			"sentids": [
+				35065,
+				35066,
+				35067,
+				35068,
+				35069
+			],
+			"k_sentences": [
+				{
+					"raw": "전경에 다른 남자가 있고 한 남자가 배경에서 보도에 서 있다.",
+					"morp": [
+						{
+							"lemma": "전경",
+							"type": "NNG",
+							"id": 0
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 1
+						},
+						{
+							"lemma": "다른",
+							"type": "MM",
+							"id": 2
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 3
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 4
+						},
+						{
+							"lemma": "있",
+							"type": "VV",
+							"id": 5
+						},
+						{
+							"lemma": "고",
+							"type": "EC",
+							"id": 6
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 7
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 8
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 9
+						},
+						{
+							"lemma": "배경",
+							"type": "NNG",
+							"id": 10
+						},
+						{
+							"lemma": "에서",
+							"type": "JKB",
+							"id": 11
+						},
+						{
+							"lemma": "보도",
+							"type": "NNG",
+							"id": 12
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 13
+						},
+						{
+							"lemma": "서",
+							"type": "VV",
+							"id": 14
+						},
+						{
+							"lemma": "어",
+							"type": "EC",
+							"id": 15
+						},
+						{
+							"lemma": "있",
+							"type": "VX",
+							"id": 16
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 17
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 18
+						}
+					],
+					"imgid": 7013,
+					"sentid": 35065
+				},
+				{
+					"raw": "한 남자가 분주한 버스 정류장에 서 있다.",
+					"morp": [
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 2
+						},
+						{
+							"lemma": "분주",
+							"type": "NNG",
+							"id": 3
+						},
+						{
+							"lemma": "하",
+							"type": "XSA",
+							"id": 4
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 5
+						},
+						{
+							"lemma": "버스",
+							"type": "NNG",
+							"id": 6
+						},
+						{
+							"lemma": "정류장",
+							"type": "NNG",
+							"id": 7
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 8
+						},
+						{
+							"lemma": "서",
+							"type": "VV",
+							"id": 9
+						},
+						{
+							"lemma": "어",
+							"type": "EC",
+							"id": 10
+						},
+						{
+							"lemma": "있",
+							"type": "VX",
+							"id": 11
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 12
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 13
+						}
+					],
+					"imgid": 7013,
+					"sentid": 35066
+				},
+				{
+					"raw": "한 남자가 버스 옆에 서 있다.",
+					"morp": [
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 2
+						},
+						{
+							"lemma": "버스",
+							"type": "NNG",
+							"id": 3
+						},
+						{
+							"lemma": "옆",
+							"type": "NNG",
+							"id": 4
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 5
+						},
+						{
+							"lemma": "서",
+							"type": "VV",
+							"id": 6
+						},
+						{
+							"lemma": "어",
+							"type": "EC",
+							"id": 7
+						},
+						{
+							"lemma": "있",
+							"type": "VX",
+							"id": 8
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 9
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 10
+						}
+					],
+					"imgid": 7013,
+					"sentid": 35067
+				},
+				{
+					"raw": "도시의 사람들.",
+					"morp": [
+						{
+							"lemma": "도시",
+							"type": "NNG",
+							"id": 0
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 1
+						},
+						{
+							"lemma": "사람",
+							"type": "NNG",
+							"id": 2
+						},
+						{
+							"lemma": "들",
+							"type": "XSN",
+							"id": 3
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 4
+						}
+					],
+					"imgid": 7013,
+					"sentid": 35068
+				},
+				{
+					"raw": "열린 문의 버스를 지나 거리를 걸어내려가는 사람들.",
+					"morp": [
+						{
+							"lemma": "열리",
+							"type": "VV",
+							"id": 0
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 1
+						},
+						{
+							"lemma": "문",
+							"type": "NNG",
+							"id": 2
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 3
+						},
+						{
+							"lemma": "버스",
+							"type": "NNG",
+							"id": 4
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 5
+						},
+						{
+							"lemma": "지나",
+							"type": "VV",
+							"id": 6
+						},
+						{
+							"lemma": "아",
+							"type": "EC",
+							"id": 7
+						},
+						{
+							"lemma": "거리",
+							"type": "NNG",
+							"id": 8
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 9
+						},
+						{
+							"lemma": "걸",
+							"type": "VV",
+							"id": 10
+						},
+						{
+							"lemma": "어",
+							"type": "EC",
+							"id": 11
+						},
+						{
+							"lemma": "내려가",
+							"type": "VV",
+							"id": 12
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 13
+						},
+						{
+							"lemma": "사람",
+							"type": "NNG",
+							"id": 14
+						},
+						{
+							"lemma": "들",
+							"type": "XSN",
+							"id": 15
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 16
+						}
+					],
+					"imgid": 7013,
+					"sentid": 35069
+				}
+			],
+			"imgid": 7013,
+			"split": "test",
+			"sentences": [
+				{
+					"tokens": [
+						"a",
+						"man",
+						"is",
+						"standing",
+						"on",
+						"a",
+						"sidewalk",
+						"in",
+						"the",
+						"background",
+						"with",
+						"a",
+						"blurry",
+						"image",
+						"of",
+						"another",
+						"man",
+						"in",
+						"the",
+						"foreground"
+					],
+					"raw": "A man is standing on a sidewalk in the background with a blurry image of another man in the foreground .",
+					"imgid": 7013,
+					"sentid": 35065
+				},
+				{
+					"tokens": [
+						"a",
+						"man",
+						"stands",
+						"at",
+						"a",
+						"busy",
+						"bus",
+						"stop"
+					],
+					"raw": "A man stands at a busy bus stop .",
+					"imgid": 7013,
+					"sentid": 35066
+				},
+				{
+					"tokens": [
+						"a",
+						"man",
+						"stands",
+						"next",
+						"to",
+						"a",
+						"bus"
+					],
+					"raw": "a man stands next to a bus .",
+					"imgid": 7013,
+					"sentid": 35067
+				},
+				{
+					"tokens": [
+						"people",
+						"in",
+						"the",
+						"city"
+					],
+					"raw": "People in the city .",
+					"imgid": 7013,
+					"sentid": 35068
+				},
+				{
+					"tokens": [
+						"people",
+						"walking",
+						"down",
+						"the",
+						"street",
+						"and",
+						"past",
+						"an",
+						"open",
+						"bus"
+					],
+					"raw": "People walking down the street and past an open bus .",
+					"imgid": 7013,
+					"sentid": 35069
+				}
+			],
+			"filename": "3344233740_c010378da7.jpg"
+		},
+		{
+			"sentids": [
+				35070,
+				35071,
+				35072,
+				35073,
+				35074
+			],
+			"k_sentences": [
+				{
+					"raw": "갈색 모자, 빨간 운동화 그리고 어두운 초록색 코트를 착용한 한 소녀가 바위 벤치에 앉아 있다.",
+					"morp": [
+						{
+							"lemma": "갈색",
+							"type": "NNG",
+							"id": 0
+						},
+						{
+							"lemma": "모자",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": ",",
+							"type": "SP",
+							"id": 2
+						},
+						{
+							"lemma": "빨갛",
+							"type": "VA",
+							"id": 3
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 4
+						},
+						{
+							"lemma": "운동화",
+							"type": "NNG",
+							"id": 5
+						},
+						{
+							"lemma": "그리고",
+							"type": "MAJ",
+							"id": 6
+						},
+						{
+							"lemma": "어둡",
+							"type": "VA",
+							"id": 7
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 8
+						},
+						{
+							"lemma": "초록색",
+							"type": "NNG",
+							"id": 9
+						},
+						{
+							"lemma": "코트",
+							"type": "NNG",
+							"id": 10
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 11
+						},
+						{
+							"lemma": "착용",
+							"type": "NNG",
+							"id": 12
+						},
+						{
+							"lemma": "하",
+							"type": "XSV",
+							"id": 13
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 14
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 15
+						},
+						{
+							"lemma": "소녀",
+							"type": "NNG",
+							"id": 16
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 17
+						},
+						{
+							"lemma": "바위",
+							"type": "NNG",
+							"id": 18
+						},
+						{
+							"lemma": "벤치",
+							"type": "NNG",
+							"id": 19
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 20
+						},
+						{
+							"lemma": "앉",
+							"type": "VV",
+							"id": 21
+						},
+						{
+							"lemma": "아",
+							"type": "EC",
+							"id": 22
+						},
+						{
+							"lemma": "있",
+							"type": "VX",
+							"id": 23
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 24
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 25
+						}
+					],
+					"imgid": 7014,
+					"sentid": 35070
+				},
+				{
+					"raw": "배경에 구름낀 하늘이 있는 곳에서 한 자켓과 비니 모자를 쓴 하이킹을 하는 사람이 돌 위에 앉아 있다.",
+					"morp": [
+						{
+							"lemma": "배경",
+							"type": "NNG",
+							"id": 0
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 1
+						},
+						{
+							"lemma": "구름",
+							"type": "NNG",
+							"id": 2
+						},
+						{
+							"lemma": "끼",
+							"type": "VV",
+							"id": 3
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 4
+						},
+						{
+							"lemma": "하늘",
+							"type": "NNG",
+							"id": 5
+						},
+						{
+							"lemma": "이",
+							"type": "JKS",
+							"id": 6
+						},
+						{
+							"lemma": "있",
+							"type": "VV",
+							"id": 7
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 8
+						},
+						{
+							"lemma": "곳",
+							"type": "NNG",
+							"id": 9
+						},
+						{
+							"lemma": "에서",
+							"type": "JKB",
+							"id": 10
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 11
+						},
+						{
+							"lemma": "자켓",
+							"type": "NNG",
+							"id": 12
+						},
+						{
+							"lemma": "과",
+							"type": "JC",
+							"id": 13
+						},
+						{
+							"lemma": "비니",
+							"type": "NNG",
+							"id": 14
+						},
+						{
+							"lemma": "모자",
+							"type": "NNG",
+							"id": 15
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 16
+						},
+						{
+							"lemma": "쓰",
+							"type": "VV",
+							"id": 17
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 18
+						},
+						{
+							"lemma": "하이킹",
+							"type": "NNG",
+							"id": 19
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 20
+						},
+						{
+							"lemma": "하",
+							"type": "VV",
+							"id": 21
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 22
+						},
+						{
+							"lemma": "사람",
+							"type": "NNG",
+							"id": 23
+						},
+						{
+							"lemma": "이",
+							"type": "JKS",
+							"id": 24
+						},
+						{
+							"lemma": "돌",
+							"type": "NNG",
+							"id": 25
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 26
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 27
+						},
+						{
+							"lemma": "앉",
+							"type": "VV",
+							"id": 28
+						},
+						{
+							"lemma": "아",
+							"type": "EC",
+							"id": 29
+						},
+						{
+							"lemma": "있",
+							"type": "VX",
+							"id": 30
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 31
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 32
+						}
+					],
+					"imgid": 7014,
+					"sentid": 35071
+				},
+				{
+					"raw": "초록 코트와 비니 모자를 쓴 한 여자가 한 덩어리의 돌 위에 앉아 저 너머를 본다.",
+					"morp": [
+						{
+							"lemma": "초록",
+							"type": "NNG",
+							"id": 0
+						},
+						{
+							"lemma": "코트",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": "와",
+							"type": "JC",
+							"id": 2
+						},
+						{
+							"lemma": "비니",
+							"type": "NNG",
+							"id": 3
+						},
+						{
+							"lemma": "모자",
+							"type": "NNG",
+							"id": 4
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 5
+						},
+						{
+							"lemma": "쓰",
+							"type": "VV",
+							"id": 6
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 7
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 8
+						},
+						{
+							"lemma": "여자",
+							"type": "NNG",
+							"id": 9
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 10
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 11
+						},
+						{
+							"lemma": "덩어리",
+							"type": "NNG",
+							"id": 12
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 13
+						},
+						{
+							"lemma": "돌",
+							"type": "NNG",
+							"id": 14
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 15
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 16
+						},
+						{
+							"lemma": "앉",
+							"type": "VV",
+							"id": 17
+						},
+						{
+							"lemma": "아",
+							"type": "EC",
+							"id": 18
+						},
+						{
+							"lemma": "저",
+							"type": "MM",
+							"id": 19
+						},
+						{
+							"lemma": "너머",
+							"type": "NNG",
+							"id": 20
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 21
+						},
+						{
+							"lemma": "보",
+							"type": "VV",
+							"id": 22
+						},
+						{
+							"lemma": "ㄴ다",
+							"type": "EF",
+							"id": 23
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 24
+						}
+					],
+					"imgid": 7014,
+					"sentid": 35072
+				},
+				{
+					"raw": "배낭을 멘 한 여자가 큰 바위 위에 앉아 산들 너머를 내려다본다.",
+					"morp": [
+						{
+							"lemma": "배낭",
+							"type": "NNG",
+							"id": 0
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 1
+						},
+						{
+							"lemma": "메",
+							"type": "VV",
+							"id": 2
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 3
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 4
+						},
+						{
+							"lemma": "여자",
+							"type": "NNG",
+							"id": 5
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 6
+						},
+						{
+							"lemma": "크",
+							"type": "VA",
+							"id": 7
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 8
+						},
+						{
+							"lemma": "바위",
+							"type": "NNG",
+							"id": 9
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 10
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 11
+						},
+						{
+							"lemma": "앉",
+							"type": "VV",
+							"id": 12
+						},
+						{
+							"lemma": "아",
+							"type": "EC",
+							"id": 13
+						},
+						{
+							"lemma": "산",
+							"type": "NNG",
+							"id": 14
+						},
+						{
+							"lemma": "들",
+							"type": "XSN",
+							"id": 15
+						},
+						{
+							"lemma": "너머",
+							"type": "NNG",
+							"id": 16
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 17
+						},
+						{
+							"lemma": "내려다보",
+							"type": "VV",
+							"id": 18
+						},
+						{
+							"lemma": "ㄴ다",
+							"type": "EF",
+							"id": 19
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 20
+						}
+					],
+					"imgid": 7014,
+					"sentid": 35073
+				},
+				{
+					"raw": "숙녀가 바위 위에 앉아 있다.",
+					"morp": [
+						{
+							"lemma": "숙녀",
+							"type": "NNG",
+							"id": 0
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 1
+						},
+						{
+							"lemma": "바위",
+							"type": "NNG",
+							"id": 2
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 3
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 4
+						},
+						{
+							"lemma": "앉",
+							"type": "VV",
+							"id": 5
+						},
+						{
+							"lemma": "아",
+							"type": "EC",
+							"id": 6
+						},
+						{
+							"lemma": "있",
+							"type": "VX",
+							"id": 7
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 8
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 9
+						}
+					],
+					"imgid": 7014,
+					"sentid": 35074
+				}
+			],
+			"imgid": 7014,
+			"split": "test",
+			"sentences": [
+				{
+					"tokens": [
+						"a",
+						"girl",
+						"wearing",
+						"a",
+						"brown",
+						"cap",
+						"red",
+						"sneakers",
+						"and",
+						"a",
+						"dark",
+						"green",
+						"coat",
+						"sits",
+						"on",
+						"a",
+						"rock",
+						"bench"
+					],
+					"raw": "A girl wearing a brown cap , red sneakers , and a dark green coat sits on a rock bench .",
+					"imgid": 7014,
+					"sentid": 35070
+				},
+				{
+					"tokens": [
+						"a",
+						"hiker",
+						"in",
+						"a",
+						"jacket",
+						"and",
+						"knit",
+						"cap",
+						"sits",
+						"with",
+						"a",
+						"backpack",
+						"on",
+						"atop",
+						"a",
+						"stone",
+						"with",
+						"a",
+						"cloudy",
+						"sky",
+						"in",
+						"the",
+						"background"
+					],
+					"raw": "A hiker in a jacket and knit cap sits with a backpack on atop a stone with a cloudy sky in the background .",
+					"imgid": 7014,
+					"sentid": 35071
+				},
+				{
+					"tokens": [
+						"a",
+						"woman",
+						"in",
+						"a",
+						"knit",
+						"cap",
+						"and",
+						"green",
+						"coat",
+						"its",
+						"on",
+						"a",
+						"stone",
+						"block",
+						"looking",
+						"out"
+					],
+					"raw": "A woman in a knit cap and green coat its on a stone block , looking out .",
+					"imgid": 7014,
+					"sentid": 35072
+				},
+				{
+					"tokens": [
+						"a",
+						"woman",
+						"with",
+						"her",
+						"backpack",
+						"sits",
+						"on",
+						"a",
+						"large",
+						"rock",
+						"and",
+						"looks",
+						"down",
+						"over",
+						"the",
+						"mountains"
+					],
+					"raw": "A woman with her backpack sits on a large rock and looks down over the mountains .",
+					"imgid": 7014,
+					"sentid": 35073
+				},
+				{
+					"tokens": [
+						"the",
+						"lady",
+						"is",
+						"sitting",
+						"on",
+						"a",
+						"rock"
+					],
+					"raw": "The lady is sitting on a rock .",
+					"imgid": 7014,
+					"sentid": 35074
+				}
+			],
+			"filename": "2435685480_a79d42e564.jpg"
+		},
+		{
+			"sentids": [
+				35075,
+				35076,
+				35077,
+				35078,
+				35079
+			],
+			"k_sentences": [
+				{
+					"raw": "한 남자가 또 다른 남자가 그의 팔 위에 한 빨간색 리본을 묶는 것을 돕는다.",
+					"morp": [
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 2
+						},
+						{
+							"lemma": "또",
+							"type": "MAG",
+							"id": 3
+						},
+						{
+							"lemma": "다른",
+							"type": "MM",
+							"id": 4
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 5
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 6
+						},
+						{
+							"lemma": "그",
+							"type": "NP",
+							"id": 7
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 8
+						},
+						{
+							"lemma": "팔",
+							"type": "NNG",
+							"id": 9
+						},
+						{
+							"lemma": "위",
+							"type": "NNG",
+							"id": 10
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 11
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 12
+						},
+						{
+							"lemma": "빨간색",
+							"type": "NNG",
+							"id": 13
+						},
+						{
+							"lemma": "리본",
+							"type": "NNG",
+							"id": 14
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 15
+						},
+						{
+							"lemma": "묶",
+							"type": "VV",
+							"id": 16
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 17
+						},
+						{
+							"lemma": "것",
+							"type": "NNB",
+							"id": 18
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 19
+						},
+						{
+							"lemma": "돕",
+							"type": "VV",
+							"id": 20
+						},
+						{
+							"lemma": "는다",
+							"type": "EF",
+							"id": 21
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 22
+						}
+					],
+					"imgid": 7015,
+					"sentid": 35075
+				},
+				{
+					"raw": "한 남자가 한 거리의 가두 행진 동안에 또 다른 남자의 오른 팔 근처에 한 빨간색 리본을 묶는다.",
+					"morp": [
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 2
+						},
+						{
+							"lemma": "하",
+							"type": "VV",
+							"id": 3
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 4
+						},
+						{
+							"lemma": "거리",
+							"type": "NNG",
+							"id": 5
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 6
+						},
+						{
+							"lemma": "가두",
+							"type": "NNG",
+							"id": 7
+						},
+						{
+							"lemma": "행진",
+							"type": "NNG",
+							"id": 8
+						},
+						{
+							"lemma": "동안",
+							"type": "NNG",
+							"id": 9
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 10
+						},
+						{
+							"lemma": "또",
+							"type": "MAG",
+							"id": 11
+						},
+						{
+							"lemma": "다른",
+							"type": "MM",
+							"id": 12
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 13
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 14
+						},
+						{
+							"lemma": "오른",
+							"type": "MM",
+							"id": 15
+						},
+						{
+							"lemma": "팔",
+							"type": "NNG",
+							"id": 16
+						},
+						{
+							"lemma": "근처",
+							"type": "NNG",
+							"id": 17
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 18
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 19
+						},
+						{
+							"lemma": "빨간색",
+							"type": "NNG",
+							"id": 20
+						},
+						{
+							"lemma": "리본",
+							"type": "NNG",
+							"id": 21
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 22
+						},
+						{
+							"lemma": "묶",
+							"type": "VV",
+							"id": 23
+						},
+						{
+							"lemma": "는다",
+							"type": "EF",
+							"id": 24
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 25
+						}
+					],
+					"imgid": 7015,
+					"sentid": 35076
+				},
+				{
+					"raw": "한 남자가 거리에서 또 다른 남자의 팔 근처에 한 빨간색 완장을 묶는 중이다.",
+					"morp": [
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 2
+						},
+						{
+							"lemma": "거리",
+							"type": "NNG",
+							"id": 3
+						},
+						{
+							"lemma": "에서",
+							"type": "JKB",
+							"id": 4
+						},
+						{
+							"lemma": "또",
+							"type": "MAG",
+							"id": 5
+						},
+						{
+							"lemma": "다른",
+							"type": "MM",
+							"id": 6
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 7
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 8
+						},
+						{
+							"lemma": "팔",
+							"type": "NNG",
+							"id": 9
+						},
+						{
+							"lemma": "근처",
+							"type": "NNG",
+							"id": 10
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 11
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 12
+						},
+						{
+							"lemma": "빨간색",
+							"type": "NNG",
+							"id": 13
+						},
+						{
+							"lemma": "완장",
+							"type": "NNG",
+							"id": 14
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 15
+						},
+						{
+							"lemma": "묶",
+							"type": "VV",
+							"id": 16
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 17
+						},
+						{
+							"lemma": "중",
+							"type": "NNB",
+							"id": 18
+						},
+						{
+							"lemma": "이",
+							"type": "VCP",
+							"id": 19
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 20
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 21
+						}
+					],
+					"imgid": 7015,
+					"sentid": 35077
+				},
+				{
+					"raw": "한 남자가 한 거대한 무리의 사람들의 중간에서 또 다른 남자가 그의 팔뚝에 한 빨간색 리본을 붙이는 것을 도와준다.",
+					"morp": [
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 2
+						},
+						{
+							"lemma": "하",
+							"type": "VV",
+							"id": 3
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 4
+						},
+						{
+							"lemma": "거대",
+							"type": "NNG",
+							"id": 5
+						},
+						{
+							"lemma": "하",
+							"type": "XSA",
+							"id": 6
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 7
+						},
+						{
+							"lemma": "무리",
+							"type": "NNG",
+							"id": 8
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 9
+						},
+						{
+							"lemma": "사람",
+							"type": "NNG",
+							"id": 10
+						},
+						{
+							"lemma": "들",
+							"type": "XSN",
+							"id": 11
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 12
+						},
+						{
+							"lemma": "중간",
+							"type": "NNG",
+							"id": 13
+						},
+						{
+							"lemma": "에서",
+							"type": "JKB",
+							"id": 14
+						},
+						{
+							"lemma": "또",
+							"type": "MAG",
+							"id": 15
+						},
+						{
+							"lemma": "다른",
+							"type": "MM",
+							"id": 16
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 17
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 18
+						},
+						{
+							"lemma": "그",
+							"type": "NP",
+							"id": 19
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 20
+						},
+						{
+							"lemma": "팔뚝",
+							"type": "NNG",
+							"id": 21
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 22
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 23
+						},
+						{
+							"lemma": "빨간색",
+							"type": "NNG",
+							"id": 24
+						},
+						{
+							"lemma": "리본",
+							"type": "NNG",
+							"id": 25
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 26
+						},
+						{
+							"lemma": "붙이",
+							"type": "VV",
+							"id": 27
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 28
+						},
+						{
+							"lemma": "것",
+							"type": "NNB",
+							"id": 29
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 30
+						},
+						{
+							"lemma": "도와주",
+							"type": "VV",
+							"id": 31
+						},
+						{
+							"lemma": "ㄴ다",
+							"type": "EF",
+							"id": 32
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 33
+						}
+					],
+					"imgid": 7015,
+					"sentid": 35078
+				},
+				{
+					"raw": "두 남자가 함께 선다.",
+					"morp": [
+						{
+							"lemma": "두",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "남자",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 2
+						},
+						{
+							"lemma": "함께",
+							"type": "MAG",
+							"id": 3
+						},
+						{
+							"lemma": "서",
+							"type": "VV",
+							"id": 4
+						},
+						{
+							"lemma": "ㄴ다",
+							"type": "EF",
+							"id": 5
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 6
+						}
+					],
+					"imgid": 7015,
+					"sentid": 35079
+				}
+			],
+			"imgid": 7015,
+			"split": "test",
+			"sentences": [
+				{
+					"tokens": [
+						"a",
+						"man",
+						"helps",
+						"another",
+						"man",
+						"tie",
+						"a",
+						"red",
+						"ribbon",
+						"onto",
+						"his",
+						"arm"
+					],
+					"raw": "A man helps another man tie a red ribbon onto his arm .",
+					"imgid": 7015,
+					"sentid": 35075
+				},
+				{
+					"tokens": [
+						"a",
+						"man",
+						"helps",
+						"tie",
+						"a",
+						"red",
+						"ribbon",
+						"around",
+						"another",
+						"man",
+						"s",
+						"right",
+						"arm",
+						"during",
+						"a",
+						"street",
+						"parade"
+					],
+					"raw": "A man helps tie a red ribbon around another man 's right arm during a street parade .",
+					"imgid": 7015,
+					"sentid": 35076
+				},
+				{
+					"tokens": [
+						"a",
+						"man",
+						"is",
+						"tying",
+						"a",
+						"red",
+						"arm",
+						"band",
+						"around",
+						"another",
+						"mans",
+						"arm",
+						"in",
+						"the",
+						"street"
+					],
+					"raw": "A man is tying a red arm band around another mans arm in the street .",
+					"imgid": 7015,
+					"sentid": 35077
+				},
+				{
+					"tokens": [
+						"one",
+						"man",
+						"helps",
+						"another",
+						"attach",
+						"a",
+						"red",
+						"ribbon",
+						"to",
+						"his",
+						"forearm",
+						"in",
+						"the",
+						"midst",
+						"of",
+						"a",
+						"large",
+						"group",
+						"of",
+						"people"
+					],
+					"raw": "One man helps another attach a red ribbon to his forearm in the midst of a large group of people .",
+					"imgid": 7015,
+					"sentid": 35078
+				},
+				{
+					"tokens": [
+						"two",
+						"men",
+						"stand",
+						"together",
+						"one",
+						"is",
+						"putting",
+						"something",
+						"red",
+						"on",
+						"his",
+						"arm"
+					],
+					"raw": "Two men stand together ; one is putting something red on his arm .",
+					"imgid": 7015,
+					"sentid": 35079
+				}
+			],
+			"filename": "3110649716_c17e14670e.jpg"
+		},
+		{
+			"sentids": [
+				35080,
+				35081,
+				35082,
+				35083,
+				35084
+			],
+			"k_sentences": [
+				{
+					"raw": "한 갈색 개 앞에서 한 프리스비를 갖고 있는 한 개.",
+					"morp": [
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "갈색",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": "개",
+							"type": "NNG",
+							"id": 2
+						},
+						{
+							"lemma": "앞",
+							"type": "NNG",
+							"id": 3
+						},
+						{
+							"lemma": "에서",
+							"type": "JKB",
+							"id": 4
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 5
+						},
+						{
+							"lemma": "프리스비",
+							"type": "NNG",
+							"id": 6
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 7
+						},
+						{
+							"lemma": "갖",
+							"type": "VV",
+							"id": 8
+						},
+						{
+							"lemma": "고",
+							"type": "EC",
+							"id": 9
+						},
+						{
+							"lemma": "있",
+							"type": "VX",
+							"id": 10
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 11
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 12
+						},
+						{
+							"lemma": "개",
+							"type": "NNB",
+							"id": 13
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 14
+						}
+					],
+					"imgid": 7016,
+					"sentid": 35080
+				},
+				{
+					"raw": "한 거대한 검은색 개가 한 거대한 갈색 개가 뒤에 가깝게 따르는 동안 한 프리스비를 잡는 중이다.",
+					"morp": [
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "거대",
+							"type": "NNG",
+							"id": 1
+						},
+						{
+							"lemma": "하",
+							"type": "XSA",
+							"id": 2
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 3
+						},
+						{
+							"lemma": "검은색",
+							"type": "NNG",
+							"id": 4
+						},
+						{
+							"lemma": "개",
+							"type": "NNG",
+							"id": 5
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 6
+						},
+						{
+							"lemma": "하",
+							"type": "VV",
+							"id": 7
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 8
+						},
+						{
+							"lemma": "거대",
+							"type": "NNG",
+							"id": 9
+						},
+						{
+							"lemma": "하",
+							"type": "XSA",
+							"id": 10
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 11
+						},
+						{
+							"lemma": "갈색",
+							"type": "NNG",
+							"id": 12
+						},
+						{
+							"lemma": "개",
+							"type": "NNG",
+							"id": 13
+						},
+						{
+							"lemma": "가",
+							"type": "JKS",
+							"id": 14
+						},
+						{
+							"lemma": "뒤",
+							"type": "NNG",
+							"id": 15
+						},
+						{
+							"lemma": "에",
+							"type": "JKB",
+							"id": 16
+						},
+						{
+							"lemma": "가깝",
+							"type": "VA",
+							"id": 17
+						},
+						{
+							"lemma": "게",
+							"type": "EC",
+							"id": 18
+						},
+						{
+							"lemma": "따르",
+							"type": "VV",
+							"id": 19
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 20
+						},
+						{
+							"lemma": "동안",
+							"type": "NNG",
+							"id": 21
+						},
+						{
+							"lemma": "한",
+							"type": "MM",
+							"id": 22
+						},
+						{
+							"lemma": "프리스비",
+							"type": "NNP",
+							"id": 23
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 24
+						},
+						{
+							"lemma": "잡",
+							"type": "VV",
+							"id": 25
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 26
+						},
+						{
+							"lemma": "중",
+							"type": "NNB",
+							"id": 27
+						},
+						{
+							"lemma": "이",
+							"type": "VCP",
+							"id": 28
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 29
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 30
+						}
+					],
+					"imgid": 7016,
+					"sentid": 35081
+				},
+				{
+					"raw": "두 어두운 색깔의 개들이 파란색 프리스비를 갖고 잔디에서 즐겁게 뛰논다.",
+					"morp": [
+						{
+							"lemma": "두",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "어둡",
+							"type": "VA",
+							"id": 1
+						},
+						{
+							"lemma": "ㄴ",
+							"type": "ETM",
+							"id": 2
+						},
+						{
+							"lemma": "색깔",
+							"type": "NNG",
+							"id": 3
+						},
+						{
+							"lemma": "의",
+							"type": "JKG",
+							"id": 4
+						},
+						{
+							"lemma": "개",
+							"type": "NNG",
+							"id": 5
+						},
+						{
+							"lemma": "들",
+							"type": "XSN",
+							"id": 6
+						},
+						{
+							"lemma": "이",
+							"type": "JKS",
+							"id": 7
+						},
+						{
+							"lemma": "파란색",
+							"type": "NNG",
+							"id": 8
+						},
+						{
+							"lemma": "프리스비",
+							"type": "NNG",
+							"id": 9
+						},
+						{
+							"lemma": "를",
+							"type": "JKO",
+							"id": 10
+						},
+						{
+							"lemma": "갖",
+							"type": "VV",
+							"id": 11
+						},
+						{
+							"lemma": "고",
+							"type": "EC",
+							"id": 12
+						},
+						{
+							"lemma": "잔디",
+							"type": "NNG",
+							"id": 13
+						},
+						{
+							"lemma": "에서",
+							"type": "JKB",
+							"id": 14
+						},
+						{
+							"lemma": "즐겁",
+							"type": "VA",
+							"id": 15
+						},
+						{
+							"lemma": "게",
+							"type": "EC",
+							"id": 16
+						},
+						{
+							"lemma": "뛰놀",
+							"type": "VV",
+							"id": 17
+						},
+						{
+							"lemma": "ㄴ다",
+							"type": "EF",
+							"id": 18
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 19
+						}
+					],
+					"imgid": 7016,
+					"sentid": 35082
+				},
+				{
+					"raw": "두 개들이 잔디에서 파란색 프리스비들을 잡는 중이다.",
+					"morp": [
+						{
+							"lemma": "두",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "개",
+							"type": "NNB",
+							"id": 1
+						},
+						{
+							"lemma": "들",
+							"type": "XSN",
+							"id": 2
+						},
+						{
+							"lemma": "이",
+							"type": "JKS",
+							"id": 3
+						},
+						{
+							"lemma": "잔디",
+							"type": "NNG",
+							"id": 4
+						},
+						{
+							"lemma": "에서",
+							"type": "JKB",
+							"id": 5
+						},
+						{
+							"lemma": "파란색",
+							"type": "NNG",
+							"id": 6
+						},
+						{
+							"lemma": "프리스비",
+							"type": "NNG",
+							"id": 7
+						},
+						{
+							"lemma": "들",
+							"type": "XSN",
+							"id": 8
+						},
+						{
+							"lemma": "을",
+							"type": "JKO",
+							"id": 9
+						},
+						{
+							"lemma": "잡",
+							"type": "VV",
+							"id": 10
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 11
+						},
+						{
+							"lemma": "중",
+							"type": "NNB",
+							"id": 12
+						},
+						{
+							"lemma": "이",
+							"type": "VCP",
+							"id": 13
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 14
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 15
+						}
+					],
+					"imgid": 7016,
+					"sentid": 35083
+				},
+				{
+					"raw": "두 개들이 노는 중이다.",
+					"morp": [
+						{
+							"lemma": "두",
+							"type": "MM",
+							"id": 0
+						},
+						{
+							"lemma": "개",
+							"type": "NNB",
+							"id": 1
+						},
+						{
+							"lemma": "들",
+							"type": "XSN",
+							"id": 2
+						},
+						{
+							"lemma": "이",
+							"type": "JKS",
+							"id": 3
+						},
+						{
+							"lemma": "놀",
+							"type": "VV",
+							"id": 4
+						},
+						{
+							"lemma": "는",
+							"type": "ETM",
+							"id": 5
+						},
+						{
+							"lemma": "중",
+							"type": "NNB",
+							"id": 6
+						},
+						{
+							"lemma": "이",
+							"type": "VCP",
+							"id": 7
+						},
+						{
+							"lemma": "다",
+							"type": "EF",
+							"id": 8
+						},
+						{
+							"lemma": ".",
+							"type": "SF",
+							"id": 9
+						}
+					],
+					"imgid": 7016,
+					"sentid": 35084
+				}
+			],
+			"imgid": 7016,
+			"split": "test",
+			"sentences": [
+				{
+					"tokens": [
+						"a",
+						"dog",
+						"with",
+						"a",
+						"frisbee",
+						"in",
+						"front",
+						"of",
+						"a",
+						"brown",
+						"dog"
+					],
+					"raw": "A dog with a Frisbee in front of a brown dog .",
+					"imgid": 7016,
+					"sentid": 35080
+				},
+				{
+					"tokens": [
+						"a",
+						"large",
+						"black",
+						"dog",
+						"is",
+						"catching",
+						"a",
+						"frisbee",
+						"while",
+						"a",
+						"large",
+						"brown",
+						"dog",
+						"follows",
+						"shortly",
+						"after"
+					],
+					"raw": "A large black dog is catching a Frisbee while a large brown dog follows shortly after .",
+					"imgid": 7016,
+					"sentid": 35081
+				},
+				{
+					"tokens": [
+						"two",
+						"dark",
+						"colored",
+						"dogs",
+						"romp",
+						"in",
+						"the",
+						"grass",
+						"with",
+						"a",
+						"blue",
+						"frisbee"
+					],
+					"raw": "Two dark colored dogs romp in the grass with a blue Frisbee .",
+					"imgid": 7016,
+					"sentid": 35082
+				},
+				{
+					"tokens": [
+						"two",
+						"dogs",
+						"are",
+						"catching",
+						"blue",
+						"frisbees",
+						"in",
+						"grass"
+					],
+					"raw": "Two dogs are catching blue Frisbees in grass .",
+					"imgid": 7016,
+					"sentid": 35083
+				},
+				{
+					"tokens": [
+						"two",
+						"dogs",
+						"are",
+						"playing",
+						"one",
+						"is",
+						"catching",
+						"a",
+						"frisbee"
+					],
+					"raw": "Two dogs are playing ; one is catching a Frisbee .",
+					"imgid": 7016,
+					"sentid": 35084
+				}
+			],
+			"filename": "2511019188_ca71775f2d.jpg"
+		}
+	]
+}
+		
