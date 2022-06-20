@@ -1,32 +1,33 @@
 # korean_multimodal_data
 
 데이터
+
 	cocoqa
-		# cocoqa 영어 원본
+		cocoqa 영어 원본
 		train
 		test
 		관련 스크립트 또는 사전: 자세한 내용은 cocoqa 검색 및 스크립트 파일 내용 참조
 
 	cocoqa_korean
-		# cocoqa 한국어 번역본
+		cocoqa 한국어 번역본
 		train
 		test
 		관련 스크립트 또는 사전: 자세한 내용은 cocoqa 검색 및 스크립트 파일 내용 참조
 
 	flickr8k
-		# 한국어 이미지 캡션 데이터 
+		한국어 이미지 캡션 데이터 
 		images.zip: flickr8k 이미지 파일
 		dataset.org.json: 영어 원본 데이터
 		dataset.korean.utf8.json: 한국어 번역 데이터
 
 	flickr30k
-		# 한국어 이미지 캡션 데이터 
+		한국어 이미지 캡션 데이터 
 		flickr30k-images.tar: flickr30k 이미지 파일
 		dataset.json: 영어 데이터
 		flickr30k_test.json: 영어 test 데이터 및 한국어 번역 데이터
 	
 	mnmt
-		# 한국어-영어 이미지 번역 데이터 based flickr8k
+		한국어-영어 이미지 번역 데이터 based flickr8k
 		train
 		test
 		val
